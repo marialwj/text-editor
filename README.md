@@ -32,7 +32,7 @@ Jate is a web application designed to provide a platform for sharing and discuss
 (This command will start both the server and client concurrently, allowing you to work on both parts of the application simultaneously.)
 
 ## Walkthrough + Screenshots
-
+![walkthrough](texteditorwalkthrought.mp4)
 
 ## License
 N/A
