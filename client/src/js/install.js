@@ -20,6 +20,7 @@ butInstall.addEventListener('click', async () => {
   promptEvent.prompt();
   window.deferredPrompt = null;
   butInstall.classList.toggle('hidden', true);
+  console.log('install button')
 });
 
 // TODO: Add an handler for the `appinstalled` event
